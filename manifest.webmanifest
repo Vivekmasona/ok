@@ -1,6 +1,14 @@
 {
   "name": "Maskable PWA",
   "short_name": "Maskable",
+"share_target": {
+    "action": "",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
   "start_url": "./",
   "display": "standalone",
   "background_color": "#546e7a",
